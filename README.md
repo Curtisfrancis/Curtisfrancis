@@ -16,8 +16,8 @@ I'm a data scientist, driven by a passion for solving problems with algorithms a
 In addition to honing my data science skills, I aspire to contribute to advancements in scientific research, geospatial data science and marine science. crafting innovative solutions that address challenges in these fields, paving the way for a sustainable future.
 
 ![](https://komarev.com/ghpvc/?username=Curtisfrancis&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/Curtisfrancis" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Curtisfrancis?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://x.com/CurtisApegz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/x/follow/CurtisApegz?logo=x&style=for-the-badge&color=0C7DBE&labelColor=000000"
+src="https://img.shields.io/github/followers/Curtisfrancis?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://twitter.com/CurtisApegz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/CurtisApegz?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
 /></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://#/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233241847953)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
