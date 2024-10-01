@@ -40,5 +40,3 @@ src="https://img.shields.io/twitter/follow/CurtisApegz?logo=twitter&style=for-th
 
 [![](https://visitcount.itsvg.in/api?id=Curtisfrancis&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="/banner.png" width="100%">
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="348b5756-ac8a-41c8-88c0-b130ef576207" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
