@@ -36,7 +36,7 @@ src="https://img.shields.io/twitter/follow/CurtisApegz?logo=twitter&style=for-th
 
 ![](https://github-profile-trophy.vercel.app/?username=Curtisfrancis&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-<h2 align="left">Support:</h2>
+
 
 [![](https://visitcount.itsvg.in/api?id=Curtisfrancis&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="/banner.png" width="100%">
